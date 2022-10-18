@@ -66,10 +66,10 @@ function getClosest(current) {
 		matches.push([]);
 	}
 
-	for (let i = 0; i < data.yarns.length; i++) {
-		for (let j = 0; j < data.yarns[i].colorways.length; j++) {
+	for (let i = 0; i < data.floss.length; i++) {
+		for (let j = 0; j < data.floss[i].colorways.length; j++) {
 
-			let distance = colorDistance(current, data.yarns[i].colorways[j].hex);
+			let distance = colorDistance(current, data.floss[i].colorways[j].hex);
 
 			for (let k = 0; k < numberOfMatches; k++) {
 
@@ -103,17 +103,17 @@ function colorDistance(first, second) {
 function printColorway(i, j) {
 
 	let textColor;
-	let yarnColor = data.yarns[i].colorways[j].hex
+	let yarnColor = data.floss[i].colorways[j].hex
 
 	if (colorDistance(yarnColor, "#ffffff") < 200) {
 		textColor = "#666666";
 	} else {
 		textColor = "#fbfbfb";
 	}
-	let colourway = data.yarns[i].colorways[j].name;
-	let yarn = data.yarns[i].name;
+	let colourway = data.floss[i].colorways[j].name;
+	let yarn = data.floss[i].name;
 	let toPrint = [yarn, colourway].join(" - ");
-	let link = data.yarns[i].url;
+	let link = data.floss[i].url;
 
 	let optionsHolder = createP();
 	optionsHolder.parent("#optionsContainer");
