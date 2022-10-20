@@ -21,39 +21,39 @@
                     "hex": "#ffffff"
                 },
                 {
-                    "name": "1 White Tin",
+                    "name": "01 White Tin",
                     "hex": "#efeef0"
                 },
                 {
-                    "name": "2 Tin",
+                    "name": "02 Tin",
                     "hex": "#c5c4c9"
                 },
                 {
-                    "name": "3 Tin - Medium",
+                    "name": "03 Tin - Medium",
                     "hex": "#b0b0b5"
                 },
                 {
-                    "name": "4 Tin - Dark",
+                    "name": "04 Tin - Dark",
                     "hex": "#9c9b9d"
                 },
                 {
-                    "name": "5 Driftwood - Light",
+                    "name": "05 Driftwood - Light",
                     "hex": "#e3ccbe"
                 },
                 {
-                    "name": "6 Driftwood - Medium Light",
+                    "name": "06 Driftwood - Medium Light",
                     "hex": "#dcc6b8"
                 },
                 {
-                    "name": "7 Driftwood",
+                    "name": "07 Driftwood",
                     "hex": "#ccb8aa"
                 },
                 {
-                    "name": "8 Driftwood - Dark",
+                    "name": "08 Driftwood - Dark",
                     "hex": "#9d7d71"
                 },
                 {
-                    "name": "9 Cocoa - Very Dark",
+                    "name": "09 Cocoa - Very Dark",
                     "hex": "#552014"
                 },
                 {
@@ -789,7 +789,7 @@
                     "hex": "#63520b"
                 },
                 {
-                    "name": "731* Olive Green - Dark",
+                    "name": "731 Olive Green - Dark",
                     "hex": "#6b580b"
                 },
                 {
@@ -873,7 +873,7 @@
                     "hex": "#d4e3ef"
                 },
                 {
-                    "name": "776* Pink - Medium",
+                    "name": "776 Pink - Medium",
                     "hex": "#fca8ad"
                 },
                 {
@@ -893,7 +893,7 @@
                     "hex": "#945026"
                 },
                 {
-                    "name": "781* Topaz - Very Dark",
+                    "name": "781 Topaz - Very Dark",
                     "hex": "#a25f1f"
                 },
                 {
@@ -949,7 +949,7 @@
                     "hex": "#202754"
                 },
                 {
-                    "name": "806* Peacock Blue - Dark",
+                    "name": "806 Peacock Blue - Dark",
                     "hex": "#1d6c87"
                 },
                 {
@@ -1069,7 +1069,7 @@
                     "hex": "#494842"
                 },
                 {
-                    "name": "868* Hazel Nut Brown",
+                    "name": "868 Hazel Nut Brown",
                     "hex": "#995c30"
                 },
                 {
@@ -1313,7 +1313,7 @@
                     "hex": "#fb6721"
                 },
                 {
-                    "name": "971* Pumpkin",
+                    "name": "971 Pumpkin",
                     "hex": "#fc670d"
                 },
                 {
@@ -1661,7 +1661,7 @@
                     "hex": "#995744"
                 },
                 {
-                    "name": "3773* Desert Sand - Medium",
+                    "name": "3773 Desert Sand - Medium",
                     "hex": "#cf866d"
                 },
                 {
