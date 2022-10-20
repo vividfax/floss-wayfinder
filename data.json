@@ -1,64 +1,1972 @@
 {
     "floss": [
         {
-            "name": "West Yorkshire Spinners ColourLab DK",
-            "url": "https://www.ravelry.com/yarns/library/west-yorkshire-spinners-colourlab-dk",
+            "name": "Stranded cotton - DMC",
+            "url": "https://www.dmc.com/uk/stranded-cotton-500-colours-6.html",
             "colorways": [
                 {
-                    "hex": "#131114",
-                    "name": "009 Phantom Black"
+                    "name": "ECRU - Ecru/off-white",
+                    "hex": "#fff7e7"
                 },
                 {
-                    "hex": "#262E53",
-                    "name": "111 True Blue"
+                    "name": "BLANC - White",
+                    "hex": "#fcfcff"
                 },
                 {
-                    "hex": "#908890",
-                    "name": "137 Silver Grey"
+                    "name": "WHITE - White",
+                    "hex": "#fcfcff"
                 },
                 {
-                    "hex": "#B2A337",
-                    "name": "186 Pear Green"
+                    "name": "B5200 - Snow White",
+                    "hex": "#ffffff"
                 },
                 {
-                    "hex": "#B2C135",
-                    "name": "198 Lime Green"
+                    "name": "1 - White Tin",
+                    "hex": "#efeef0"
                 },
                 {
-                    "hex": "#F2A41C",
-                    "name": "229 Citrus Yellow"
+                    "name": "2 - Tin",
+                    "hex": "#c5c4c9"
                 },
                 {
-                    "hex": "#483D4B",
-                    "name": "373 Stormy Grey"
+                    "name": "3 - Tin - Medium",
+                    "hex": "#b0b0b5"
                 },
                 {
-                    "hex": "#870049",
-                    "name": "539 Cerise Pink"
+                    "name": "4 - Tin - Dark",
+                    "hex": "#9c9b9d"
                 },
                 {
-                    "hex": "#A20014",
-                    "name": "556 Crimson Red"
+                    "name": "5 - Driftwood - Light",
+                    "hex": "#e3ccbe"
                 },
                 {
-                    "hex": "#BF004B",
-                    "name": "647 Very Berry"
+                    "name": "6 - Driftwood - Medium Light",
+                    "hex": "#dcc6b8"
                 },
                 {
-                    "hex": "#79C2BC",
-                    "name": "705 Aqua Green"
+                    "name": "7 - Driftwood",
+                    "hex": "#ccb8aa"
                 },
                 {
-                    "hex": "#006778",
-                    "name": "716 Deep Teal"
+                    "name": "8 - Driftwood - Dark",
+                    "hex": "#9d7d71"
                 },
                 {
-                    "hex": "#914A93",
-                    "name": "717 Thistle Purple"
+                    "name": "9 - Cocoa - Very Dark",
+                    "hex": "#552014"
                 },
                 {
-                    "hex": "#171F5E",
-                    "name": "764 Harbour Blue"
+                    "name": "10 - Tender Green - Very Light",
+                    "hex": "#edfed9"
+                },
+                {
+                    "name": "11 - Tender Green - Light",
+                    "hex": "#e2edb5"
+                },
+                {
+                    "name": "12 - Tender Green",
+                    "hex": "#cdd99a"
+                },
+                {
+                    "name": "13 - Nile Green - Medium Light",
+                    "hex": "#bff6e0"
+                },
+                {
+                    "name": "14 - Apple Green - Pale",
+                    "hex": "#d0fbb2"
+                },
+                {
+                    "name": "15 - Apple Green",
+                    "hex": "#d1eda4"
+                },
+                {
+                    "name": "16 - Chartreuse - Light",
+                    "hex": "#a4d67c"
+                },
+                {
+                    "name": "17 - Yellow Plum - Light",
+                    "hex": "#e5e272"
+                },
+                {
+                    "name": "18 - Yellow Plum",
+                    "hex": "#d9d56d"
+                },
+                {
+                    "name": "19 - Autumn Gold - Medium Light",
+                    "hex": "#f7c95f"
+                },
+                {
+                    "name": "20 - Shrimp",
+                    "hex": "#f7af93"
+                },
+                {
+                    "name": "21 - Alizarian - Light",
+                    "hex": "#d79982"
+                },
+                {
+                    "name": "22 - Alizarian",
+                    "hex": "#bc604e"
+                },
+                {
+                    "name": "23 - Apple Blossom",
+                    "hex": "#ede2ed"
+                },
+                {
+                    "name": "24 - White Lavender",
+                    "hex": "#e0d7ee"
+                },
+                {
+                    "name": "25 - Lavender - Ultra Light",
+                    "hex": "#dad2e9"
+                },
+                {
+                    "name": "26 - Lavender - Pale",
+                    "hex": "#cfc8de"
+                },
+                {
+                    "name": "27 - White Violet",
+                    "hex": "#e9ecfc"
+                },
+                {
+                    "name": "28 - Eggplant - Medium Light",
+                    "hex": "#7d4e92"
+                },
+                {
+                    "name": "29 - Eggplant",
+                    "hex": "#674076"
+                },
+                {
+                    "name": "30 - Blueberry - Medium Light",
+                    "hex": "#6d54d3"
+                },
+                {
+                    "name": "31 - Blueberry",
+                    "hex": "#5834a3"
+                },
+                {
+                    "name": "32 - Blueberry - Dark",
+                    "hex": "#4d2e8a"
+                },
+                {
+                    "name": "33 - Fuchsia",
+                    "hex": "#d9539f"
+                },
+                {
+                    "name": "34 - Fuchsia - Dark",
+                    "hex": "#ae4280"
+                },
+                {
+                    "name": "35 - Fuchsia - Very Dark",
+                    "hex": "#732b55"
+                },
+                {
+                    "name": "150 - Red - Bright",
+                    "hex": "#cf0053"
+                },
+                {
+                    "name": "151 - Pink",
+                    "hex": "#ffcbd7"
+                },
+                {
+                    "name": "152 - Tawny - Dark",
+                    "hex": "#e1a1a1"
+                },
+                {
+                    "name": "153 - Lilac",
+                    "hex": "#eac5eb"
+                },
+                {
+                    "name": "154 - Red - Very Dark",
+                    "hex": "#4b233a"
+                },
+                {
+                    "name": "155 - Forget-me-not Blue",
+                    "hex": "#9774b6"
+                },
+                {
+                    "name": "156 - Blue - Medium",
+                    "hex": "#8577b4"
+                },
+                {
+                    "name": "157 - Blue - Light",
+                    "hex": "#b5b8ea"
+                },
+                {
+                    "name": "158 - Blue - Dark",
+                    "hex": "#393068"
+                },
+                {
+                    "name": "159 - Petrol Blue - Light",
+                    "hex": "#bcb5de"
+                },
+                {
+                    "name": "160 - Petrol Blue - Medium",
+                    "hex": "#8178a9"
+                },
+                {
+                    "name": "161 - Petrol Blue - Dark",
+                    "hex": "#60568b"
+                },
+                {
+                    "name": "162 - Baby Blue - Light",
+                    "hex": "#cae7f0"
+                },
+                {
+                    "name": "163 - Green",
+                    "hex": "#557a60"
+                },
+                {
+                    "name": "164 - Green - Light",
+                    "hex": "#bae4b6"
+                },
+                {
+                    "name": "165 - Green - Bright",
+                    "hex": "#e1f477"
+                },
+                {
+                    "name": "166 - Lime Green",
+                    "hex": "#adc238"
+                },
+                {
+                    "name": "167 - Khaki Brown",
+                    "hex": "#855d31"
+                },
+                {
+                    "name": "168 - Silver Gray",
+                    "hex": "#b1aeb7"
+                },
+                {
+                    "name": "169 - Pewter Gray",
+                    "hex": "#827d7d"
+                },
+                {
+                    "name": "208 - Lavender - Very Dark",
+                    "hex": "#9442a7"
+                },
+                {
+                    "name": "209 - Lavender - Dark",
+                    "hex": "#ba72c6"
+                },
+                {
+                    "name": "210 - Lavender - Medium",
+                    "hex": "#d49fe1"
+                },
+                {
+                    "name": "211 - Lavender - Light",
+                    "hex": "#e5bded"
+                },
+                {
+                    "name": "221 - Shell Pink - Very Dark",
+                    "hex": "#792631"
+                },
+                {
+                    "name": "223 - Shell Pink - Light",
+                    "hex": "#bb6864"
+                },
+                {
+                    "name": "224 - Shell Pink - Very Light",
+                    "hex": "#e2a598"
+                },
+                {
+                    "name": "225 - Shell Pink - Ultra Very Light",
+                    "hex": "#f8d9cd"
+                },
+                {
+                    "name": "300 - Mahogany - Very Dark",
+                    "hex": "#6c3116"
+                },
+                {
+                    "name": "301 - Mahogany - Medium",
+                    "hex": "#aa5237"
+                },
+                {
+                    "name": "304 - Red - Medium",
+                    "hex": "#a10c39"
+                },
+                {
+                    "name": "307 - Lemon",
+                    "hex": "#fde949"
+                },
+                {
+                    "name": "309 - Rose - Dark",
+                    "hex": "#ba2044"
+                },
+                {
+                    "name": "310 - Black",
+                    "hex": "#000000"
+                },
+                {
+                    "name": "311 - Blue - Medium",
+                    "hex": "#002a64"
+                },
+                {
+                    "name": "312 - Baby Blue - Very Dark",
+                    "hex": "#1f3279"
+                },
+                {
+                    "name": "315 - Antique Mauve - Medium Dark",
+                    "hex": "#7d4246"
+                },
+                {
+                    "name": "316 - Antique Mauve - Medium",
+                    "hex": "#bc757f"
+                },
+                {
+                    "name": "317 - Pewter Gray",
+                    "hex": "#6d6469"
+                },
+                {
+                    "name": "318 - Steel Gray - Light",
+                    "hex": "#999b9d"
+                },
+                {
+                    "name": "319 - Pistachio Green - Very Dark",
+                    "hex": "#3a553b"
+                },
+                {
+                    "name": "320 - Pistachio Green - Medium",
+                    "hex": "#608c59"
+                },
+                {
+                    "name": "321 - Red",
+                    "hex": "#bd1136"
+                },
+                {
+                    "name": "322 - Baby Blue",
+                    "hex": "#3a609d"
+                },
+                {
+                    "name": "326 - Rose - Very Dark",
+                    "hex": "#ac1c37"
+                },
+                {
+                    "name": "327 - Violet",
+                    "hex": "#5e0f77"
+                },
+                {
+                    "name": "333 - Blue Violet - Very Dark",
+                    "hex": "#6e2e9b"
+                },
+                {
+                    "name": "334 - Baby Blue - Medium",
+                    "hex": "#6085b8"
+                },
+                {
+                    "name": "335 - Rose",
+                    "hex": "#d63d57"
+                },
+                {
+                    "name": "336 - Blue",
+                    "hex": "#0c275e"
+                },
+                {
+                    "name": "340 - Blue Violet - Medium",
+                    "hex": "#996dc3"
+                },
+                {
+                    "name": "341 - Blue Violet - Light",
+                    "hex": "#a39ad7"
+                },
+                {
+                    "name": "347 - Salmon - Very Dark",
+                    "hex": "#ab1b33"
+                },
+                {
+                    "name": "349 - Coral - Dark",
+                    "hex": "#c62c38"
+                },
+                {
+                    "name": "350 - Coral - Medium",
+                    "hex": "#de3f40"
+                },
+                {
+                    "name": "351 - Coral",
+                    "hex": "#ed625b"
+                },
+                {
+                    "name": "352 - Coral - Light",
+                    "hex": "#f78372"
+                },
+                {
+                    "name": "353 - Peach",
+                    "hex": "#fdb4a1"
+                },
+                {
+                    "name": "355 - Terra Cotta - Dark",
+                    "hex": "#97382b"
+                },
+                {
+                    "name": "356 - Terra Cotta - Medium",
+                    "hex": "#be5c4b"
+                },
+                {
+                    "name": "367 - Pistachio Green - Dark",
+                    "hex": "#446b45"
+                },
+                {
+                    "name": "368 - Pistachio Green - Light",
+                    "hex": "#7fc66d"
+                },
+                {
+                    "name": "369 - Pistachio Green - Very Light",
+                    "hex": "#cdefa6"
+                },
+                {
+                    "name": "370 - Mustard - Medium",
+                    "hex": "#917245"
+                },
+                {
+                    "name": "371 - Mustard",
+                    "hex": "#9f8352"
+                },
+                {
+                    "name": "372 - Mustard - Light",
+                    "hex": "#ad9564"
+                },
+                {
+                    "name": "400 - Mahogany - Dark",
+                    "hex": "#813718"
+                },
+                {
+                    "name": "402 - Mahogany - Very Light",
+                    "hex": "#ef9e74"
+                },
+                {
+                    "name": "407 - Desert Sand - Dark",
+                    "hex": "#b77159"
+                },
+                {
+                    "name": "413 - Pewter Gray - Dark",
+                    "hex": "#4a4749"
+                },
+                {
+                    "name": "414 - Steel Gray - Dark",
+                    "hex": "#766e72"
+                },
+                {
+                    "name": "415 - Pearl Gray",
+                    "hex": "#b8b9bd"
+                },
+                {
+                    "name": "420 - Hazelnut Brown - Dark",
+                    "hex": "#855a30"
+                },
+                {
+                    "name": "422 - Hazelnut Brown - Light",
+                    "hex": "#c99a67"
+                },
+                {
+                    "name": "433 - Brown - Medium",
+                    "hex": "#73421e"
+                },
+                {
+                    "name": "434 - Brown - Light",
+                    "hex": "#8f5332"
+                },
+                {
+                    "name": "435 - Brown - Very Light",
+                    "hex": "#a96538"
+                },
+                {
+                    "name": "436 - Tan",
+                    "hex": "#c78559"
+                },
+                {
+                    "name": "437 - Tan - Light",
+                    "hex": "#daa26f"
+                },
+                {
+                    "name": "444 - Lemon - Dark",
+                    "hex": "#f5bc13"
+                },
+                {
+                    "name": "445 - Lemon - Light",
+                    "hex": "#fcf999"
+                },
+                {
+                    "name": "451 - Shell Gray - Dark",
+                    "hex": "#887773"
+                },
+                {
+                    "name": "452 - Shell Gray - Medium",
+                    "hex": "#ad9994"
+                },
+                {
+                    "name": "453 - Shell Gray - Light",
+                    "hex": "#ccb8aa"
+                },
+                {
+                    "name": "469 - Avocado Green",
+                    "hex": "#5b6533"
+                },
+                {
+                    "name": "470 - Avocado Green - Light",
+                    "hex": "#72813e"
+                },
+                {
+                    "name": "471 - Avocado Green - Very Light",
+                    "hex": "#9eb357"
+                },
+                {
+                    "name": "472 - Avocado Green - Ultra Light",
+                    "hex": "#d1de75"
+                },
+                {
+                    "name": "498 - Red - Dark",
+                    "hex": "#970b2c"
+                },
+                {
+                    "name": "500 - Blue Green - Very Dark",
+                    "hex": "#1d362a"
+                },
+                {
+                    "name": "501 - Blue Green - Dark",
+                    "hex": "#2f5446"
+                },
+                {
+                    "name": "502 - Blue Green",
+                    "hex": "#57826e"
+                },
+                {
+                    "name": "503 - Blue Green - Medium",
+                    "hex": "#89b89f"
+                },
+                {
+                    "name": "504* - Blue Green - Very Light",
+                    "hex": "#acdac1"
+                },
+                {
+                    "name": "505 - Grass Green - Dark",
+                    "hex": "#338362"
+                },
+                {
+                    "name": "517 - Wedgewood - Dark",
+                    "hex": "#216285"
+                },
+                {
+                    "name": "518 - Wedgewood - Light",
+                    "hex": "#50819c"
+                },
+                {
+                    "name": "519 - Sky Blue",
+                    "hex": "#94b7cb"
+                },
+                {
+                    "name": "520 - Fern Green - Dark",
+                    "hex": "#384526"
+                },
+                {
+                    "name": "522 - Fern Green",
+                    "hex": "#808b6e"
+                },
+                {
+                    "name": "523 - Fern Green - Light",
+                    "hex": "#959f7a"
+                },
+                {
+                    "name": "524 - Fern Green - Very Light",
+                    "hex": "#aea78e"
+                },
+                {
+                    "name": "535 - Ash Gray - Very Light",
+                    "hex": "#4b4b49"
+                },
+                {
+                    "name": "543 - Beige Brown - Ultra Very Light",
+                    "hex": "#ead0b5"
+                },
+                {
+                    "name": "550 - Violet - Very Dark",
+                    "hex": "#580e5c"
+                },
+                {
+                    "name": "552 - Violet - Medium",
+                    "hex": "#902f99"
+                },
+                {
+                    "name": "553 - Violet",
+                    "hex": "#a449ac"
+                },
+                {
+                    "name": "554 - Violet - Light",
+                    "hex": "#dc9cde"
+                },
+                {
+                    "name": "561 - Jade - Very Dark",
+                    "hex": "#285e48"
+                },
+                {
+                    "name": "562 - Jade - Medium",
+                    "hex": "#3b8c5a"
+                },
+                {
+                    "name": "563 - Jade - Light",
+                    "hex": "#6ed39a"
+                },
+                {
+                    "name": "564 - Jade - Very Light",
+                    "hex": "#95e4af"
+                },
+                {
+                    "name": "580 - Moss Green - Dark",
+                    "hex": "#355f0b"
+                },
+                {
+                    "name": "581 - Moss Green",
+                    "hex": "#838a29"
+                },
+                {
+                    "name": "597 - Turquoise",
+                    "hex": "#52adab"
+                },
+                {
+                    "name": "598 - Turquoise - Light",
+                    "hex": "#97d8d3"
+                },
+                {
+                    "name": "600 - Cranberry - Very Dark",
+                    "hex": "#bf1c48"
+                },
+                {
+                    "name": "601 - Cranberry - Dark",
+                    "hex": "#c62a53"
+                },
+                {
+                    "name": "602 - Cranberry - Medium",
+                    "hex": "#d63f68"
+                },
+                {
+                    "name": "603 - Cranberry - Light Medium",
+                    "hex": "#fb4b7c"
+                },
+                {
+                    "name": "604 - Cranberry - Light",
+                    "hex": "#f793b2"
+                },
+                {
+                    "name": "605 - Cranberry - Very Light",
+                    "hex": "#fbacc4"
+                },
+                {
+                    "name": "606 - Orange-red - Bright",
+                    "hex": "#f70f00"
+                },
+                {
+                    "name": "608 - Orange - Bright",
+                    "hex": "#fd480c"
+                },
+                {
+                    "name": "610 - Drab Brown - Dark",
+                    "hex": "#6b5039"
+                },
+                {
+                    "name": "611 - Drab Brown",
+                    "hex": "#7c5f46"
+                },
+                {
+                    "name": "612 - Drab Brown - Light",
+                    "hex": "#a6885e"
+                },
+                {
+                    "name": "613 - Drab Brown - Very Light",
+                    "hex": "#b99f72"
+                },
+                {
+                    "name": "632 - Desert Sand - Ultra Very Dark",
+                    "hex": "#7f4232"
+                },
+                {
+                    "name": "640 - Beige Gray - Very Dark",
+                    "hex": "#817868"
+                },
+                {
+                    "name": "642 - Beige Gray - Dark",
+                    "hex": "#958d79"
+                },
+                {
+                    "name": "644 - Beige Gray - Medium",
+                    "hex": "#c4bea6"
+                },
+                {
+                    "name": "645 - Beaver Gray - Very Dark",
+                    "hex": "#5d5d54"
+                },
+                {
+                    "name": "646 - Beaver Gray - Dark",
+                    "hex": "#6b6860"
+                },
+                {
+                    "name": "647 - Beaver Gray - Medium",
+                    "hex": "#908e85"
+                },
+                {
+                    "name": "648 - Beaver Gray - Light",
+                    "hex": "#a7a69f"
+                },
+                {
+                    "name": "666 - Red - Bright",
+                    "hex": "#ce1b33"
+                },
+                {
+                    "name": "676 - Old Gold - Light",
+                    "hex": "#ecbf7d"
+                },
+                {
+                    "name": "677 - Old Gold - Very Light",
+                    "hex": "#f2dc9f"
+                },
+                {
+                    "name": "680 - Old Gold - Dark",
+                    "hex": "#b07b46"
+                },
+                {
+                    "name": "699 - Green",
+                    "hex": "#075b26"
+                },
+                {
+                    "name": "700 - Green - Bright",
+                    "hex": "#076c34"
+                },
+                {
+                    "name": "701 - Green - Light",
+                    "hex": "#217c36"
+                },
+                {
+                    "name": "702 - Kelly Green",
+                    "hex": "#379130"
+                },
+                {
+                    "name": "703 - Chartreuse",
+                    "hex": "#63b330"
+                },
+                {
+                    "name": "704 - Chartreuse - Bright",
+                    "hex": "#88c53a"
+                },
+                {
+                    "name": "712 - Cream",
+                    "hex": "#f6efda"
+                },
+                {
+                    "name": "718 - Plum",
+                    "hex": "#cb2089"
+                },
+                {
+                    "name": "720 - Orange Spice - Dark",
+                    "hex": "#c83a24"
+                },
+                {
+                    "name": "721 - Orange Spice - Medium",
+                    "hex": "#f46440"
+                },
+                {
+                    "name": "722 - Orange Spice - Light",
+                    "hex": "#f98756"
+                },
+                {
+                    "name": "725 - Topaz",
+                    "hex": "#f9c15b"
+                },
+                {
+                    "name": "726 - Topaz - Light",
+                    "hex": "#fddb63"
+                },
+                {
+                    "name": "727 - Topaz - Very Light",
+                    "hex": "#fde98b"
+                },
+                {
+                    "name": "728 - Golden Yellow",
+                    "hex": "#f2ae3f"
+                },
+                {
+                    "name": "729 - Old Gold - Medium",
+                    "hex": "#ce9657"
+                },
+                {
+                    "name": "730 - Olive Green - Very Dark",
+                    "hex": "#63520b"
+                },
+                {
+                    "name": "731* - Olive Green - Dark",
+                    "hex": "#6b580b"
+                },
+                {
+                    "name": "732 - Olive Green",
+                    "hex": "#725c0c"
+                },
+                {
+                    "name": "733 - Olive Green - Medium",
+                    "hex": "#a78a44"
+                },
+                {
+                    "name": "734 - Olive Green - Light",
+                    "hex": "#bb9c54"
+                },
+                {
+                    "name": "738 - Tan - Very Light",
+                    "hex": "#e2b783"
+                },
+                {
+                    "name": "739 - Tan - Ultra Very Light",
+                    "hex": "#f2deb9"
+                },
+                {
+                    "name": "740 - Tangerine",
+                    "hex": "#fd6f1a"
+                },
+                {
+                    "name": "741 - Tangerine - Medium",
+                    "hex": "#fc8b10"
+                },
+                {
+                    "name": "742 - Tangerine - Light",
+                    "hex": "#fdae3c"
+                },
+                {
+                    "name": "743 - Yellow - Medium",
+                    "hex": "#fdd769"
+                },
+                {
+                    "name": "744 - Yellow - Pale",
+                    "hex": "#fee88d"
+                },
+                {
+                    "name": "745 - Yellow - Light Pale",
+                    "hex": "#feeba5"
+                },
+                {
+                    "name": "746 - Off White",
+                    "hex": "#faf2d5"
+                },
+                {
+                    "name": "747 - Sky Blue - Very Light",
+                    "hex": "#cee9ea"
+                },
+                {
+                    "name": "754 - Peach - Light",
+                    "hex": "#f7c9b0"
+                },
+                {
+                    "name": "758 - Terra Cotta - Very Light",
+                    "hex": "#e99f83"
+                },
+                {
+                    "name": "760 - Salmon",
+                    "hex": "#ec8880"
+                },
+                {
+                    "name": "761 - Salmon - Light",
+                    "hex": "#f8b4ad"
+                },
+                {
+                    "name": "762 - Pearl Gray - Very Light",
+                    "hex": "#d1d0d2"
+                },
+                {
+                    "name": "772 - Yellow Green - Very Light",
+                    "hex": "#d7efa7"
+                },
+                {
+                    "name": "775 - Baby Blue - Very Light",
+                    "hex": "#d4e3ef"
+                },
+                {
+                    "name": "776* - Pink - Medium",
+                    "hex": "#fca8ad"
+                },
+                {
+                    "name": "777 - Red - Deep",
+                    "hex": "#9b0042"
+                },
+                {
+                    "name": "778 - Antique Mauve - Very Light",
+                    "hex": "#dca6a4"
+                },
+                {
+                    "name": "779 - Brown",
+                    "hex": "#53332d"
+                },
+                {
+                    "name": "780 - Topaz - Ultra Very Dark",
+                    "hex": "#945026"
+                },
+                {
+                    "name": "781* - Topaz - Very Dark",
+                    "hex": "#a25f1f"
+                },
+                {
+                    "name": "782 - Topaz - Dark",
+                    "hex": "#b26923"
+                },
+                {
+                    "name": "783 - Topaz - Medium",
+                    "hex": "#d0883d"
+                },
+                {
+                    "name": "791 - Cornflower Blue - Very Dark",
+                    "hex": "#2d2068"
+                },
+                {
+                    "name": "792 - Cornflower Blue - Dark",
+                    "hex": "#454b8b"
+                },
+                {
+                    "name": "793 - Cornflower Blue - Medium",
+                    "hex": "#7c82b5"
+                },
+                {
+                    "name": "794 - Cornflower Blue - Light",
+                    "hex": "#a0b2d7"
+                },
+                {
+                    "name": "796 - Royal Blue - Dark",
+                    "hex": "#272276"
+                },
+                {
+                    "name": "797 - Royal Blue",
+                    "hex": "#2b3288"
+                },
+                {
+                    "name": "798 - Delft Blue - Dark",
+                    "hex": "#4e5ca7"
+                },
+                {
+                    "name": "799 - Delft Blue - Medium",
+                    "hex": "#6b7fc0"
+                },
+                {
+                    "name": "800 - Delft Blue - Pale",
+                    "hex": "#b5c7e9"
+                },
+                {
+                    "name": "801 - Coffee Brown - Dark",
+                    "hex": "#60391d"
+                },
+                {
+                    "name": "803 - Blue - Deep",
+                    "hex": "#202754"
+                },
+                {
+                    "name": "806* - Peacock Blue - Dark",
+                    "hex": "#1d6c87"
+                },
+                {
+                    "name": "807 - Peacock Blue",
+                    "hex": "#558b9e"
+                },
+                {
+                    "name": "809 - Delft Blue",
+                    "hex": "#919fd5"
+                },
+                {
+                    "name": "813 - Blue - Light",
+                    "hex": "#7fa0c6"
+                },
+                {
+                    "name": "814 - Garnet - Dark",
+                    "hex": "#711033"
+                },
+                {
+                    "name": "815 - Garnet - Medium",
+                    "hex": "#800b34"
+                },
+                {
+                    "name": "816 - Garnet",
+                    "hex": "#921238"
+                },
+                {
+                    "name": "817 - Coral Red - Very Dark",
+                    "hex": "#bb1630"
+                },
+                {
+                    "name": "818 - Baby Pink",
+                    "hex": "#fededd"
+                },
+                {
+                    "name": "819 - Baby Pink - Light",
+                    "hex": "#fcebde"
+                },
+                {
+                    "name": "820 - Royal Blue - Very Dark",
+                    "hex": "#151264"
+                },
+                {
+                    "name": "822 - Beige Gray - Light",
+                    "hex": "#e8dfc7"
+                },
+                {
+                    "name": "823 - Blue - Dark",
+                    "hex": "#000b44"
+                },
+                {
+                    "name": "824 - Blue - Very Dark",
+                    "hex": "#284779"
+                },
+                {
+                    "name": "825 - Blue - Dark",
+                    "hex": "#34588f"
+                },
+                {
+                    "name": "826 - Blue - Medium",
+                    "hex": "#5075a7"
+                },
+                {
+                    "name": "827 - Blue - Very Light",
+                    "hex": "#a4c1de"
+                },
+                {
+                    "name": "828 - Blue - Ultra Very Light",
+                    "hex": "#c3d7e6"
+                },
+                {
+                    "name": "829 - Golden Olive - Very Dark",
+                    "hex": "#64480c"
+                },
+                {
+                    "name": "830 - Golden Olive - Dark",
+                    "hex": "#6e501d"
+                },
+                {
+                    "name": "831 - Golden Olive - Medium",
+                    "hex": "#7c5f20"
+                },
+                {
+                    "name": "832 - Golden Olive",
+                    "hex": "#9c7230"
+                },
+                {
+                    "name": "833 - Golden Olive - Light",
+                    "hex": "#b99956"
+                },
+                {
+                    "name": "834 - Golden Olive - Very Light",
+                    "hex": "#d2b468"
+                },
+                {
+                    "name": "838 - Beige Brown - Very Dark",
+                    "hex": "#4a3021"
+                },
+                {
+                    "name": "839 - Beige Brown - Dark",
+                    "hex": "#5a3c2d"
+                },
+                {
+                    "name": "840 - Beige Brown - Medium",
+                    "hex": "#7a5939"
+                },
+                {
+                    "name": "841 - Beige Brown - Light",
+                    "hex": "#a37d64"
+                },
+                {
+                    "name": "842 - Beige Brown - Very Light",
+                    "hex": "#cbb094"
+                },
+                {
+                    "name": "844 - Beaver Gray - Ultra Dark",
+                    "hex": "#494842"
+                },
+                {
+                    "name": "868* - Hazel Nut Brown",
+                    "hex": "#995c30"
+                },
+                {
+                    "name": "869 - Hazelnut Brown - Very Dark",
+                    "hex": "#784c28"
+                },
+                {
+                    "name": "890 - Pistachio Green - Ultra Dark",
+                    "hex": "#324233"
+                },
+                {
+                    "name": "891 - Carnation - Dark",
+                    "hex": "#ee3246"
+                },
+                {
+                    "name": "892 - Carnation - Medium",
+                    "hex": "#f44753"
+                },
+                {
+                    "name": "893 - Carnation - Light",
+                    "hex": "#f66879"
+                },
+                {
+                    "name": "894 - Carnation - Very Light",
+                    "hex": "#fd95a3"
+                },
+                {
+                    "name": "895 - Hunter Green - Very Dark",
+                    "hex": "#344b2e"
+                },
+                {
+                    "name": "898 - Coffee Brown - Very Dark",
+                    "hex": "#532f1b"
+                },
+                {
+                    "name": "899 - Rose - Medium",
+                    "hex": "#ea6b78"
+                },
+                {
+                    "name": "900 - Burnt Orange - Dark",
+                    "hex": "#c63117"
+                },
+                {
+                    "name": "902 - Garnet - Very Dark",
+                    "hex": "#651329"
+                },
+                {
+                    "name": "904 - Parrot Green - Very Dark",
+                    "hex": "#386324"
+                },
+                {
+                    "name": "905 - Parrot Green - Dark",
+                    "hex": "#467924"
+                },
+                {
+                    "name": "906 - Parrot Green - Medium",
+                    "hex": "#6c9e29"
+                },
+                {
+                    "name": "907 - Parrot Green - Light",
+                    "hex": "#9dc72d"
+                },
+                {
+                    "name": "909 - Emerald Green - Very Dark",
+                    "hex": "#106b43"
+                },
+                {
+                    "name": "910 - Emerald Green - Dark",
+                    "hex": "#10814e"
+                },
+                {
+                    "name": "911 - Emerald Green - Medium",
+                    "hex": "#109256"
+                },
+                {
+                    "name": "912 - Emerald Green - Light",
+                    "hex": "#36b26b"
+                },
+                {
+                    "name": "913 - Nile Green - Medium",
+                    "hex": "#55ca7d"
+                },
+                {
+                    "name": "915 - Plum - Dark",
+                    "hex": "#95085a"
+                },
+                {
+                    "name": "917 - Plum - Medium",
+                    "hex": "#ac1071"
+                },
+                {
+                    "name": "918 - Red Copper - Dark",
+                    "hex": "#883630"
+                },
+                {
+                    "name": "919 - Red Copper",
+                    "hex": "#9b371b"
+                },
+                {
+                    "name": "920 - Copper - Medium",
+                    "hex": "#ab4836"
+                },
+                {
+                    "name": "921 - Copper",
+                    "hex": "#c0573d"
+                },
+                {
+                    "name": "922 - Copper - Light",
+                    "hex": "#dd6e4c"
+                },
+                {
+                    "name": "924 - Gray Green - Very Dark",
+                    "hex": "#384a4a"
+                },
+                {
+                    "name": "926 - Gray Green - Medium",
+                    "hex": "#617674"
+                },
+                {
+                    "name": "927 - Gray Green - Light",
+                    "hex": "#9fa8a5"
+                },
+                {
+                    "name": "928 - Gray Green - Very Light",
+                    "hex": "#c0c6c0"
+                },
+                {
+                    "name": "930 - Antique Blue - Dark",
+                    "hex": "#495c6b"
+                },
+                {
+                    "name": "931 - Antique Blue - Medium",
+                    "hex": "#667684"
+                },
+                {
+                    "name": "932 - Antique Blue - Light",
+                    "hex": "#93a0af"
+                },
+                {
+                    "name": "934 - Avocado Green - BLACK",
+                    "hex": "#323324"
+                },
+                {
+                    "name": "935 - Avocado Green - Dark",
+                    "hex": "#383a2a"
+                },
+                {
+                    "name": "936 - Avocado Green - Very Dark",
+                    "hex": "#3f4227"
+                },
+                {
+                    "name": "937 - Avocado Green - Medium",
+                    "hex": "#434f2c"
+                },
+                {
+                    "name": "938 - Coffee Brown - Ultra Dark",
+                    "hex": "#45271a"
+                },
+                {
+                    "name": "939 - Blue - Very Dark",
+                    "hex": "#09092f"
+                },
+                {
+                    "name": "943 - Aquamarine - Medium",
+                    "hex": "#009a77"
+                },
+                {
+                    "name": "945 - Tawny",
+                    "hex": "#f6c19a"
+                },
+                {
+                    "name": "946 - Burnt Orange - Medium",
+                    "hex": "#ed4115"
+                },
+                {
+                    "name": "947 - Burnt Orange",
+                    "hex": "#fc4f16"
+                },
+                {
+                    "name": "948 - Peach - Very Light",
+                    "hex": "#fde6d3"
+                },
+                {
+                    "name": "950 - Desert Sand - Light",
+                    "hex": "#e5ac8d"
+                },
+                {
+                    "name": "951 - Tawny - Light",
+                    "hex": "#faddb6"
+                },
+                {
+                    "name": "954 - Nile Green",
+                    "hex": "#6fda8a"
+                },
+                {
+                    "name": "955 - Nile Green - Light",
+                    "hex": "#a8ebad"
+                },
+                {
+                    "name": "956 - Geranium",
+                    "hex": "#f7566d"
+                },
+                {
+                    "name": "957 - Geranium - Pale",
+                    "hex": "#fd99af"
+                },
+                {
+                    "name": "958 - Seagreen - Dark",
+                    "hex": "#0db294"
+                },
+                {
+                    "name": "959 - Seagreen - Medium",
+                    "hex": "#72d0b7"
+                },
+                {
+                    "name": "961 - Dusty Rose - Dark",
+                    "hex": "#de586c"
+                },
+                {
+                    "name": "962 - Dusty Rose - Medium",
+                    "hex": "#eb7183"
+                },
+                {
+                    "name": "963 - Dusty Rose - Ultra Very Light",
+                    "hex": "#fdccd1"
+                },
+                {
+                    "name": "964 - Seagreen - Light",
+                    "hex": "#a5e4d4"
+                },
+                {
+                    "name": "966 - Baby Green - Medium",
+                    "hex": "#94d28a"
+                },
+                {
+                    "name": "967 - Peach - Light",
+                    "hex": "#ffc2ac"
+                },
+                {
+                    "name": "970 - Pumpkin - Light",
+                    "hex": "#fb6721"
+                },
+                {
+                    "name": "971* - Pumpkin",
+                    "hex": "#fc670d"
+                },
+                {
+                    "name": "972 - Canary - Deep",
+                    "hex": "#fb9f11"
+                },
+                {
+                    "name": "973 - Canary - Bright",
+                    "hex": "#fccd2d"
+                },
+                {
+                    "name": "975 - Golden Brown - Dark",
+                    "hex": "#813c11"
+                },
+                {
+                    "name": "976 - Golden Brown - Medium",
+                    "hex": "#cf7532"
+                },
+                {
+                    "name": "977 - Golden Brown - Light",
+                    "hex": "#ec8f43"
+                },
+                {
+                    "name": "986 - Forest Green - Very Dark",
+                    "hex": "#2e5230"
+                },
+                {
+                    "name": "987 - Forest Green - Dark",
+                    "hex": "#436838"
+                },
+                {
+                    "name": "988 - Forest Green - Medium",
+                    "hex": "#66924a"
+                },
+                {
+                    "name": "989 - Forest Green",
+                    "hex": "#71a74e"
+                },
+                {
+                    "name": "991 - Aquamarine - Dark",
+                    "hex": "#135f55"
+                },
+                {
+                    "name": "992 - Aquamarine - Light",
+                    "hex": "#42b59e"
+                },
+                {
+                    "name": "993 - Aquamarine - Very Light",
+                    "hex": "#62d8b6"
+                },
+                {
+                    "name": "995 - Electric Blue - Dark",
+                    "hex": "#0061b0"
+                },
+                {
+                    "name": "996 - Electric Blue - Medium",
+                    "hex": "#49a8eb"
+                },
+                {
+                    "name": "3011 - Khaki Green - Dark",
+                    "hex": "#655935"
+                },
+                {
+                    "name": "3012 - Khaki Green - Medium",
+                    "hex": "#8b7b4e"
+                },
+                {
+                    "name": "3013 - Khaki Green - Light",
+                    "hex": "#afa97b"
+                },
+                {
+                    "name": "3021 - Brown Gray - Very Dark",
+                    "hex": "#50403b"
+                },
+                {
+                    "name": "3022 - Brown Gray - Medium",
+                    "hex": "#848274"
+                },
+                {
+                    "name": "3023 - Brown Gray - Light",
+                    "hex": "#a29b86"
+                },
+                {
+                    "name": "3024 - Brown Gray - Very Light",
+                    "hex": "#beb8ac"
+                },
+                {
+                    "name": "3031 - Mocha Brown - Very Dark",
+                    "hex": "#423014"
+                },
+                {
+                    "name": "3032 - Mocha Brown - Medium",
+                    "hex": "#9d8868"
+                },
+                {
+                    "name": "3033 - Mocha Brown - Very Light",
+                    "hex": "#dbc7ad"
+                },
+                {
+                    "name": "3041 - Antique Violet - Medium",
+                    "hex": "#866a76"
+                },
+                {
+                    "name": "3042 - Antique Violet - Light",
+                    "hex": "#af98a0"
+                },
+                {
+                    "name": "3045 - Yellow Beige - Dark",
+                    "hex": "#af8152"
+                },
+                {
+                    "name": "3046 - Yellow Beige - Medium",
+                    "hex": "#ceb074"
+                },
+                {
+                    "name": "3047 - Yellow Beige - Light",
+                    "hex": "#ead8ab"
+                },
+                {
+                    "name": "3051 - Green Gray - Dark",
+                    "hex": "#4c4c1e"
+                },
+                {
+                    "name": "3052 - Green Gray - Medium",
+                    "hex": "#787e5c"
+                },
+                {
+                    "name": "3053 - Green Gray",
+                    "hex": "#999d75"
+                },
+                {
+                    "name": "3064 - Desert Sand",
+                    "hex": "#ba7056"
+                },
+                {
+                    "name": "3072 - Beaver Gray - Very Light",
+                    "hex": "#d2d2ca"
+                },
+                {
+                    "name": "3078 - Golden Yellow - Very Light",
+                    "hex": "#fcf6b6"
+                },
+                {
+                    "name": "3325 - Baby Blue - Light",
+                    "hex": "#adcde7"
+                },
+                {
+                    "name": "3326 - Rose - Light",
+                    "hex": "#f9979c"
+                },
+                {
+                    "name": "3328 - Salmon - Dark",
+                    "hex": "#be444a"
+                },
+                {
+                    "name": "3340 - Apricot - Medium",
+                    "hex": "#fd6b4f"
+                },
+                {
+                    "name": "3341 - Apricot",
+                    "hex": "#fd8e78"
+                },
+                {
+                    "name": "3345 - Hunter Green - Dark",
+                    "hex": "#40552e"
+                },
+                {
+                    "name": "3346 - Hunter Green",
+                    "hex": "#56743b"
+                },
+                {
+                    "name": "3347 - Yellow Green - Medium",
+                    "hex": "#6d9646"
+                },
+                {
+                    "name": "3348 - Yellow Green - Light",
+                    "hex": "#bedf74"
+                },
+                {
+                    "name": "3350 - Dusty Rose - Ultra Dark",
+                    "hex": "#aa3949"
+                },
+                {
+                    "name": "3354 - Dusty Rose - Light",
+                    "hex": "#efa5ac"
+                },
+                {
+                    "name": "3362 - Pine Green - Dark",
+                    "hex": "#49523c"
+                },
+                {
+                    "name": "3363 - Pine Green - Medium",
+                    "hex": "#617451"
+                },
+                {
+                    "name": "3364 - Pine Green",
+                    "hex": "#8e9b6d"
+                },
+                {
+                    "name": "3371 - Black Brown",
+                    "hex": "#36220e"
+                },
+                {
+                    "name": "3607 - Plum - Light",
+                    "hex": "#d94c9d"
+                },
+                {
+                    "name": "3608 - Plum - Very Light",
+                    "hex": "#ec81be"
+                },
+                {
+                    "name": "3609 - Plum - Ultra Light",
+                    "hex": "#f6b0df"
+                },
+                {
+                    "name": "3685 - Mauve - Very Dark",
+                    "hex": "#79263b"
+                },
+                {
+                    "name": "3687 - Mauve",
+                    "hex": "#b5455d"
+                },
+                {
+                    "name": "3688 - Mauve - Medium",
+                    "hex": "#dc7c86"
+                },
+                {
+                    "name": "3689 - Mauve - Light",
+                    "hex": "#f8bbc8"
+                },
+                {
+                    "name": "3705 - Melon - Dark",
+                    "hex": "#f2494f"
+                },
+                {
+                    "name": "3706 - Melon - Medium",
+                    "hex": "#fd6e70"
+                },
+                {
+                    "name": "3708 - Melon - Light",
+                    "hex": "#fda0ae"
+                },
+                {
+                    "name": "3712 - Salmon - Medium",
+                    "hex": "#d95d5d"
+                },
+                {
+                    "name": "3713 - Salmon - Very Light",
+                    "hex": "#fdd5d0"
+                },
+                {
+                    "name": "3716 - Dusty Rose - Very Light",
+                    "hex": "#fcafb9"
+                },
+                {
+                    "name": "3721 - Shell Pink - Dark",
+                    "hex": "#933b3d"
+                },
+                {
+                    "name": "3722 - Shell Pink - Medium",
+                    "hex": "#a04b4c"
+                },
+                {
+                    "name": "3726 - Antique Mauve - Dark",
+                    "hex": "#95565c"
+                },
+                {
+                    "name": "3727 - Antique Mauve - Light",
+                    "hex": "#da9ea6"
+                },
+                {
+                    "name": "3731 - Dusty Rose - Very Dark",
+                    "hex": "#c34c5c"
+                },
+                {
+                    "name": "3733 - Dusty Rose",
+                    "hex": "#ea7e86"
+                },
+                {
+                    "name": "3740 - Antique Violet - Dark",
+                    "hex": "#71535d"
+                },
+                {
+                    "name": "3743 - Antique Violet - Very Light",
+                    "hex": "#cfc2c9"
+                },
+                {
+                    "name": "3746 - Blue Violet - Dark",
+                    "hex": "#844ab5"
+                },
+                {
+                    "name": "3747 - Blue Violet - Very Light",
+                    "hex": "#d0c5ec"
+                },
+                {
+                    "name": "3750 - Antique Blue - Very Dark",
+                    "hex": "#1d4552"
+                },
+                {
+                    "name": "3752 - Antique Blue - Very Light",
+                    "hex": "#bac9cc"
+                },
+                {
+                    "name": "3753 - Antique Blue - Ultra Very Light",
+                    "hex": "#d9e6ec"
+                },
+                {
+                    "name": "3755 - Baby Blue",
+                    "hex": "#81a5d8"
+                },
+                {
+                    "name": "3756 - Baby Blue - Light",
+                    "hex": "#e9f4fa"
+                },
+                {
+                    "name": "3760 - Wedgewood - Medium",
+                    "hex": "#467293"
+                },
+                {
+                    "name": "3761 - Sky Blue - Light",
+                    "hex": "#b1d0df"
+                },
+                {
+                    "name": "3765 - Peacock Blue - Very Dark",
+                    "hex": "#175e78"
+                },
+                {
+                    "name": "3766 - Peacock Blue - Light",
+                    "hex": "#4b8aa1"
+                },
+                {
+                    "name": "3768 - Gray Green - Dark",
+                    "hex": "#4c605f"
+                },
+                {
+                    "name": "3770 - Tawny - Very Light",
+                    "hex": "#fef1d8"
+                },
+                {
+                    "name": "3771 - Peach - Dark",
+                    "hex": "#e8ac9b"
+                },
+                {
+                    "name": "3772 - Desert Sand - Very Dark",
+                    "hex": "#995744"
+                },
+                {
+                    "name": "3773* - Desert Sand - Medium",
+                    "hex": "#cf866d"
+                },
+                {
+                    "name": "3774 - Desert Sand - Very Light",
+                    "hex": "#f3cfb4"
+                },
+                {
+                    "name": "3776 - Mahogany - Light",
+                    "hex": "#c96444"
+                },
+                {
+                    "name": "3777 - Terra Cotta - Very Dark",
+                    "hex": "#922f25"
+                },
+                {
+                    "name": "3778 - Terra Cotta - Light",
+                    "hex": "#d2705c"
+                },
+                {
+                    "name": "3779 - Terra Cotta - Ultra Very Light",
+                    "hex": "#f2ab95"
+                },
+                {
+                    "name": "3781 - Mocha Brown - Dark",
+                    "hex": "#593f2b"
+                },
+                {
+                    "name": "3782 - Mocha Brown - Light",
+                    "hex": "#b69d80"
+                },
+                {
+                    "name": "3787 - Brown Gray - Dark",
+                    "hex": "#62524c"
+                },
+                {
+                    "name": "3790 - Beige Gray - Ultra Dark",
+                    "hex": "#6d5a4b"
+                },
+                {
+                    "name": "3799 - Pewter Gray - Very Dark",
+                    "hex": "#39393d"
+                },
+                {
+                    "name": "3801 - Melon - Very Dark",
+                    "hex": "#e4353d"
+                },
+                {
+                    "name": "3802 - Antique Mauve - Very Dark",
+                    "hex": "#672a33"
+                },
+                {
+                    "name": "3803 - Mauve - Dark",
+                    "hex": "#872a43"
+                },
+                {
+                    "name": "3804 - Cyclamen Pink - Dark",
+                    "hex": "#ce2b63"
+                },
+                {
+                    "name": "3805 - Cyclamen Pink",
+                    "hex": "#df3c73"
+                },
+                {
+                    "name": "3806 - Cyclamen Pink - Light",
+                    "hex": "#f15a91"
+                },
+                {
+                    "name": "3807 - Cornflower Blue",
+                    "hex": "#4b599e"
+                },
+                {
+                    "name": "3808 - Turquoise - Ultra Very Dark",
+                    "hex": "#03535c"
+                },
+                {
+                    "name": "3809 - Turquoise - Very Dark",
+                    "hex": "#136a75"
+                },
+                {
+                    "name": "3810 - Turquoise - Dark",
+                    "hex": "#2d8d98"
+                },
+                {
+                    "name": "3811 - Turquoise - Very Light",
+                    "hex": "#a8e2e5"
+                },
+                {
+                    "name": "3812 - Seagreen - Very Dark",
+                    "hex": "#07a184"
+                },
+                {
+                    "name": "3813 - Blue Green - Light",
+                    "hex": "#86c3ab"
+                },
+                {
+                    "name": "3814 - Aquamarine",
+                    "hex": "#0b8673"
+                },
+                {
+                    "name": "3815 - Celadon Green - Dark",
+                    "hex": "#437259"
+                },
+                {
+                    "name": "3816 - Celadon Green",
+                    "hex": "#60937a"
+                },
+                {
+                    "name": "3817 - Celadon Green - Light",
+                    "hex": "#81c6a4"
+                },
+                {
+                    "name": "3818 - Emerald Green - Ultra Very Dark",
+                    "hex": "#005d2e"
+                },
+                {
+                    "name": "3819 - Moss Green - Light",
+                    "hex": "#ccc959"
+                },
+                {
+                    "name": "3820 - Straw - Dark",
+                    "hex": "#dba53e"
+                },
+                {
+                    "name": "3821 - Straw",
+                    "hex": "#ebbb52"
+                },
+                {
+                    "name": "3822 - Straw - Light",
+                    "hex": "#f7d169"
+                },
+                {
+                    "name": "3823 - Yellow - Ultra Pale",
+                    "hex": "#fef5cd"
+                },
+                {
+                    "name": "3824 - Apricot - Light",
+                    "hex": "#fcae99"
+                },
+                {
+                    "name": "3825 - Pumpkin - Pale",
+                    "hex": "#fea370"
+                },
+                {
+                    "name": "3826 - Golden Brown",
+                    "hex": "#b16633"
+                },
+                {
+                    "name": "3827 - Golden Brown - Pale",
+                    "hex": "#eaa664"
+                },
+                {
+                    "name": "3828 - Hazelnut Brown",
+                    "hex": "#aa7c43"
+                },
+                {
+                    "name": "3829 - Old Gold - Very Dark",
+                    "hex": "#a7671d"
+                },
+                {
+                    "name": "3830 - Terra Cotta",
+                    "hex": "#a94138"
+                },
+                {
+                    "name": "3831 - Raspberry - Dark",
+                    "hex": "#c12b52"
+                },
+                {
+                    "name": "3832 - Raspberry - Medium",
+                    "hex": "#e36370"
+                },
+                {
+                    "name": "3833 - Raspberry - Light",
+                    "hex": "#ea8b96"
+                },
+                {
+                    "name": "3834 - Grape - Dark",
+                    "hex": "#6a2258"
+                },
+                {
+                    "name": "3835 - Grape - Medium",
+                    "hex": "#924d78"
+                },
+                {
+                    "name": "3836 - Grape - Light",
+                    "hex": "#c597b9"
+                },
+                {
+                    "name": "3837 - Lavender - Ultra Dark",
+                    "hex": "#8a2a8f"
+                },
+                {
+                    "name": "3838 - Lavender Blue - Dark",
+                    "hex": "#606bad"
+                },
+                {
+                    "name": "3839 - Lavender Blue - Medium",
+                    "hex": "#7a7ec5"
+                },
+                {
+                    "name": "3840 - Lavender Blue - Light",
+                    "hex": "#b2bdea"
+                },
+                {
+                    "name": "3841 - Baby Blue - Pale",
+                    "hex": "#d9eaf2"
+                },
+                {
+                    "name": "3842 - Wedgewood - Dark",
+                    "hex": "#06506a"
+                },
+                {
+                    "name": "3843 - Electric Blue",
+                    "hex": "#28a3de"
+                },
+                {
+                    "name": "3844 - Bright Turquoise - Dark",
+                    "hex": "#1f7fa0"
+                },
+                {
+                    "name": "3845 - Bright Turquoise - Medium",
+                    "hex": "#2badd1"
+                },
+                {
+                    "name": "3846 - Bright Turquoise - Light",
+                    "hex": "#5eccec"
+                },
+                {
+                    "name": "3847 - Teal Green - Dark",
+                    "hex": "#186358"
+                },
+                {
+                    "name": "3848 - Teal Green - Medium",
+                    "hex": "#207e72"
+                },
+                {
+                    "name": "3849 - Teal Green - Light",
+                    "hex": "#35b193"
+                },
+                {
+                    "name": "3850 - Bright Green - Dark",
+                    "hex": "#208b46"
+                },
+                {
+                    "name": "3851 - Bright Green - Light",
+                    "hex": "#61bb84"
+                },
+                {
+                    "name": "3852 - Straw - Very Dark",
+                    "hex": "#e3a730"
+                },
+                {
+                    "name": "3853 - Autumn Gold - Dark",
+                    "hex": "#ef8125"
+                },
+                {
+                    "name": "3854 - Autumn Gold - Medium",
+                    "hex": "#fbac56"
+                },
+                {
+                    "name": "3855 - Autumn Gold - Light",
+                    "hex": "#fddfa0"
+                },
+                {
+                    "name": "3856 - Mahogany - Ultra Very Light",
+                    "hex": "#fdbe8e"
+                },
+                {
+                    "name": "3857 - Rosewood - Dark",
+                    "hex": "#6a2f26"
+                },
+                {
+                    "name": "3858 - Rosewood - Medium",
+                    "hex": "#803a32"
+                },
+                {
+                    "name": "3859 - Rosewood - Light",
+                    "hex": "#ba7a6c"
+                },
+                {
+                    "name": "3860 - Cocoa",
+                    "hex": "#896362"
+                },
+                {
+                    "name": "3861 - Cocoa - Light",
+                    "hex": "#ac8583"
+                },
+                {
+                    "name": "3862 - Mocha Beige - Dark",
+                    "hex": "#6e492a"
+                },
+                {
+                    "name": "3863 - Mocha Beige - Medium",
+                    "hex": "#94725d"
+                },
+                {
+                    "name": "3864 - Mocha Beige - Light",
+                    "hex": "#c9aa92"
+                },
+                {
+                    "name": "3865 - Winter White",
+                    "hex": "#fffdf9"
+                },
+                {
+                    "name": "3866 - Mocha Brown - Ultra Very Light",
+                    "hex": "#f0e6d7"
                 }
             ]
         }
