@@ -12,7 +12,7 @@ function preload() {
 
 function setup() {
 
-	colorPicker = createColorPicker("#4bb49c");
+	colorPicker = createColorPicker(color(random(255), random(255), random(255)));
 	colorPicker.parent("#pickerContainer");
 	colorPicker.size(200, 200);
 
